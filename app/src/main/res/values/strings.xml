@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">EveDay</string>
+    <string name="hint_email_field">Ваша электронная почта</string>
+    <string name="hint_password_field">Пароль</string>
+    <string name="button_login_text">Войти</string>
+    <string name="restore_password">Восстановить пароль</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="app_title">EveDay</string>
+    <string name="registration">Регистрация</string>
+    <string name="hint_name_field">Имя</string>
+    <string name="hint_last_name_field">Фамилия</string>
+    <string name="hint_age_field">Возраст</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="title_new_password">Восстановить пароль</string>
+    <string name="get_new_password">Получить новый пароль</string>
+    <string name="logout">Выйти</string>
+    <string name="reset_password_text">Вам на почту была отправлена ссылка для смены пароля</string>
+    <string name="add_name">Введите название мероприятия</string>
+    <string name="add_description">Расскажите о своём мероприятии</string>
+    <string name="add_location">Укажите локацию мероприятия</string>
+    <string name="add_size">Укажите число участников</string>
+    <string name="add_event">Добавить</string>
+    <string name="subscribe">Подписаться</string>
+    <string name="remaining_seats">Свободных мест:</string>
+    <string name="event_location">Место проведения:</string>
+    <string name="description">Описание:</string>
+    <string name="created_events">Организованные мероприятия:</string>
+    <string name="subscribed">Подписки:</string>
+    <string name="my_events">Мои мероприятия</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767842000990",
+    "project_id": "eveday-58ff4",
+    "storage_bucket": "eveday-58ff4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767842000990:android:3a6127ad5bd77e37ad14cf",
+        "android_client_info": {
+          "package_name": "com.example.eveday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767842000990-7mmbo0cp1mu2ucap26dirpos57m5cc23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJYxkBkHYXoJMeeeJpXAmg75_riH6qWTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767842000990-7mmbo0cp1mu2ucap26dirpos57m5cc23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
